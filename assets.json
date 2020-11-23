@@ -1,0 +1,16 @@
+{
+  "UAlbion.Base.EventText": {
+    "Files": {
+      "$(LANG)/EVNTTXT1": {
+          "Format": "JsonPatch",
+          "Assets": { "0": { "Id": 28 } }
+      },
+      "$(LANG)/EVNTTXT3": {
+        "Format": "JsonPatch",
+        "Assets": {
+          "19": { "Id": 319 }
+        }
+      }
+    }
+  }
+}
