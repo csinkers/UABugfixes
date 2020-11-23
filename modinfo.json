@@ -4,5 +4,5 @@
     "description": "Fixes for the few bugs that slipped into the original game",
     "author": "...", // TODO
     "version": "1.0.0",
-    "dependencies": [ "../Base" ]
+    "dependencies": [ "Base" ]
 }

@@ -1,5 +1,5 @@
 {
-  "UAlbion.Base.EventText": {
+  "UAlbion.Base.EventText, UAlbion.Base": {
     "Files": {
       "$(LANG)/EVNTTXT1": {
           "Format": "JsonPatch",
